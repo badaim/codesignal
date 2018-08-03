@@ -1,2 +1,2 @@
 # codesignal
-Solutions for some codesignal tasks
+Solutions for some codesignal.com tasks
